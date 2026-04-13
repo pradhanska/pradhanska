@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  🙋‍♂️ <a href="https://pradhanska.netlify.app">Portfolio</a>
   🔗 <a href="https://www.linkedin.com/in/pradhan-shrinivas-kamath/">LinkedIn</a> ·
   ⭐ <a href="https://github.com/Pradhan-SKamath">GitHub</a>
 </p>
